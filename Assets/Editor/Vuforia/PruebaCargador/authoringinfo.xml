@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="1.8018 -2.4936 -0.1291 4.8648 1.5479 5.3623" targetId="9ebe10c94aee44bba197938cc9a87136" name="PruebaCargador" pathAuthoring="9ebe10c94aee44bba197938cc9a87136_authoring.glb" pathOcclusion="9ebe10c94aee44bba197938cc9a87136_occlusion.3dt" pathNavMesh="9ebe10c94aee44bba197938cc9a87136_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
